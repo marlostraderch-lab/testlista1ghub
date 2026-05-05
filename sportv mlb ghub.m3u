@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", sportv ou mlb
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=487766&extension=ts&play_token=IFFulPzwyt&sn2=
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", sportv ou mlb
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264288&extension=ts&play_token=sy5hPT3jE6&sn2=
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", sportv ou mlb
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264287&extension=ts&play_token=6h6RCTY5AK&sn2=
