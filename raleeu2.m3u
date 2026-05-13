@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1,Sportv
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901426&extension=ts&play_token=HwFQw9hJFh
+
+#EXTINF:-1,Sportv2
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901427&extension=ts&play_token=IEN2rFR3bu
+
+#EXTINF:-1,Premiere 2
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901389&extension=ts&play_token=kkCDcgO1w9
+
+#EXTINF:-1,Premiere 3
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901390&extension=ts&play_token=N0Iw6eVkJu
+
+#EXTINF:-1,Premiere 4
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901391&extension=ts&play_token=cFXAesdJGm
+
+#EXTINF:-1,Premiere 5
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901392&extension=ts&play_token=8YWQlRTPcP
+
+#EXTINF:-1,Premiere 6
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901393&extension=ts&play_token=7hw8ElXypa
+
+#EXTINF:-1,Premiere 7
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901394&extension=ts&play_token=P15SZ6rxH1
+
+#EXTINF:-1,Premiere Clubes
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901388&extension=ts&play_token=nIIrB3pm3f
+
+#EXTINF:-1,Globo RJ
+http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901339&extension=ts&play_token=WKViCOroiG
