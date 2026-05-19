@@ -29,3 +29,6 @@ http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901388&extensi
 
 #EXTINF:-1,Globo RJ
 http://me.mdmfista.com/play/live.php?mac=00:1A:79:5D:AB:3F&stream=901339&extension=ts&play_token=WKViCOroiG
+
+#EXTINF:-1,prime video hd1
+http://cdnbroken.xyz/live/170708497/476258944/174671.ts
